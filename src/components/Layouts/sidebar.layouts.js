@@ -73,7 +73,7 @@ const Sidebar = () => {
             !open && "scale-0"
           }`}
         >
-          <h1 style={{ font: "charter" }}>OpenAI</h1>
+          <h1 style={{ font: "charter" }}>Arih-GPT</h1>
         </div>
       </div>
       <ul className="pt-6">
